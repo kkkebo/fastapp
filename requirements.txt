@@ -1,0 +1,10 @@
+fastapi==0.85.0
+requests
+black
+pyTelegramBotAPI
+uvicorn==0.18.3
+pydantic==1.10.2
+SQLAlchemy==1.4.41
+alembic==1.8.1
+asyncpg==0.26.0
+SQLAlchemy-Utils==0.38.3
